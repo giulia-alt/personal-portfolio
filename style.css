@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Rouge+Script&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&display=swap');
+
+
 #navbar {
   text-align: center;
   padding: 20px 0;
@@ -5,17 +12,45 @@
 
 .navlink {
   padding: 50px;
+  color:  #fff;
+  font-family: 'Courgette', cursive;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.navlink:hover {
+  color: #9c6230;
 }
 
 #main-section {
   background-image: url(./images/travel-adventure.jpg);
   background-size: cover;
   background-position: center;
-  padding: 400px;
+  padding: 350px;
 }
 
-.introduction {
+.intro-title {
   text-align: center;
+  padding-top: 20px;
+  padding-left: 35px;
+  color: #754a24;
+  font-family: 'Rouge Script', cursive;
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.intro-p {
+  text-align: center;
+  padding-top: 10px;
+  padding-left: 35px;
+  color: #754a24;
+  font-family: 'Bad Script', cursive;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.intro-title:hover {
+  color: #ffffb3;
 }
 
 .aspectRatioBox {
