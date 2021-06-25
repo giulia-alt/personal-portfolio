@@ -1,0 +1,20 @@
+#navbar {
+  text-align: center;
+  padding: 20px 0;
+}
+
+.navlink {
+  padding: 50px;
+}
+
+#main-section {
+  background-image: url(./images/travel-adventure.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 400px;
+}
+
+.introduction {
+  text-align: center;
+}
+
