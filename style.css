@@ -111,3 +111,68 @@
 .social-icons {
   margin-left: 30px;
 }
+
+@media all and (min-width: 576px) {
+  .navlink {
+    padding: 30px;
+  }
+
+  #main-section {
+    padding: 100px;
+  }
+
+  .intro-title {
+    font-size: 30px;
+  }
+
+  .intro-p {
+    font-size: 14px;
+  }
+
+  .primary {
+    margin-top: 30px;
+  }
+}
+
+@media all and (min-width: 768px) {
+  #main-section {
+    padding: 200px;
+  }
+
+  .intro-title {
+    font-size: 32px;
+  }
+
+  .intro-p {
+    font-size: 16px;
+  }
+
+  .primary {
+    margin-top: 20px;
+  }
+}
+
+@media all and (min-width: 992px) {
+  .intro-title {
+    font-size: 46px;
+  }
+
+  .intro-p {
+    font-size: 18px;
+  }
+
+  .primary {
+    padding: 30px 0;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
