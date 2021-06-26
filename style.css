@@ -112,6 +112,13 @@
   margin-left: 30px;
 }
 
+.description {
+  text-align: center;
+  font-family: 'Benne', serif;
+  font-size: 20px;
+  font-variant: small-caps;
+}
+
 @media all and (min-width: 576px) {
   .navlink {
     padding: 30px;
